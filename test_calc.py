@@ -3,6 +3,9 @@ from pythoncode.Calculator import Calculator
 
 
 class TestCalc:
+    """
+    第一次练习
+    """
     def setup_class(self):
         self.cal = Calculator()
         print('开始执行')
